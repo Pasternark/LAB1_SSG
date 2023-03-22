@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alemania</string>
+    <string name="Pais">Pais</string>
+    <string name="Poblacion">Poblacion</string>
+    <string name="Descripcion">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Aspernatur beatae dolore earum et facere hic magnam mollitia pariatur perspiciatis similique.
+        Assumenda dolor ea quae! Esse labore laboriosam non saepe sequi.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Aspernatur beatae dolore earum et facere hic magnam mollitia pariatur perspiciatis similique.
+        Assumenda dolor ea quae! Esse labore laboriosam non saepe sequi.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Aspernatur beatae dolore earum et facere hic magnam mollitia pariatur perspiciatis similique.
+        Assumenda dolor ea quae! Esse labore laboriosam non saepe sequi.</string>
+    <string name="NombrePais">Alemania</string>
+    <string name="numPoblacion">"46846464"</string>
+    <string name="imgDescripcion">Bandera de Alemania</string>
+</resources>
